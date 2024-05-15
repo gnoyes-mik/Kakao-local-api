@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: kakao-api
+
+kakao:
+  api:
+    key: "535e63b2dfd9138fefc8d7a1f01bb720"
+    url: "https://dapi.kakao.com"
